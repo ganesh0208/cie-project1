@@ -36,14 +36,14 @@ Python is a high-level, interpreted programming language known for its simplicit
 - **Cross-platform**: Runs on Windows, macOS, and Linux
 
 ## Basic Syntax:
-```python
+\`\`\`python
 # This is a comment
 print("Hello, World!")  # Output: Hello, World!
 
 # Variables
 name = "Python"
 version = 3.9
-```', 1),
+\`\`\`', 1),
 
 ((SELECT id FROM courses WHERE title = 'Python Fundamentals'), 'Variables and Data Types',
 '# Variables and Data Types
@@ -57,7 +57,7 @@ In Python, variables are used to store data. Python is dynamically typed, meanin
 - **bool**: Boolean values (True or False)
 
 ## Examples:
-```python
+\`\`\`python
 # Integer
 age = 25
 
@@ -69,4 +69,4 @@ name = "Alice"
 
 # Boolean
 is_student = True
-```', 2);
+\`\`\`', 2);
